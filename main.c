@@ -1,4 +1,4 @@
-#include "stm32f10x_conf.h"
+﻿#include "stm32f10x_conf.h"
 #include "hw_config.h"
 #include "usb_lib.h"
 #include "usb_pwr.h"
@@ -39,7 +39,7 @@ int main(void)
     Set_USBClock();
     USB_Init();
 
-    while(1)    // цветочный толстый ты сиськастый хуй
+    while(1)    // пидрилко
     {
 
     }
