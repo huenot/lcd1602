@@ -39,8 +39,8 @@ int main(void)
     Set_USBClock();
     USB_Init();
 
-    while(1)    // пидрилко
-    {
+    while(1)    // пидрилко gbpl.y
+     {
 
     }
 }
