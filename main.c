@@ -39,7 +39,7 @@ int main(void)
     Set_USBClock();
     USB_Init();
 
-    while(1)
+    while(1)    // цветочный толстый ты сиськастый хуй
     {
 
     }
